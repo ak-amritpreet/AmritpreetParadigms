@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkN51TWU79G2vz3WRNTh/pvvIyhwlR9pH3ufFQ2CRJlkECZ2MbJCOTgTxbj17Dp2HiuM45iaAnfcWHIz2rQrIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\happy\\OneDrive\\Desktop\\Test2Paradigms\\AmritpreetParadigms\\AmritpreetParadigms.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\happy\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
